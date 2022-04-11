@@ -1,1 +1,1 @@
-[![sbaek's 42 stats](https://badge42.herokuapp.com/api/stats/sbaek?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![sbaek's 42 stats](https://badge42.vercel.app/api/v2/cl1u0veqv002109mugkfqvbph/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
