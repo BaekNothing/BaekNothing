@@ -1,6 +1,6 @@
-[![Tistory's Badge](https://img.shields.io/badge/--BaekNothing_Tistory-gray?&style=flat&logo=Tistory)](https://baeknothing.tistory.com/)
-[![Tistory's Badge](https://img.shields.io/badge/--BaekNothing_Linkedin-LightGreen?&style=flat&logo=LinkedIn)](http://linkedin.com/in/baeknothing)
-[![Instagram Badge](https://img.shields.io/badge/--BaekNothing_Instagram-black?&style=flat&logo=Instagram)](https://www.instagram.com/baek.nothing/?hl=ko)
+[![Tistory's Badge](https://img.shields.io/badge/-BaekNothing_Tistory-gray?&style=flat&logo=Tistory)](https://baeknothing.tistory.com/)
+[![Tistory's Badge](https://img.shields.io/badge/-BaekNothing_Linkedin-LightGreen?&style=flat&logo=LinkedIn)](http://linkedin.com/in/baeknothing)
+[![Instagram Badge](https://img.shields.io/badge/-BaekNothing_Instagram-black?&style=flat&logo=Instagram)](https://www.instagram.com/baek.nothing/?hl=ko)
 
 
 
