@@ -2,7 +2,7 @@
 [![Tistory's Badge](https://img.shields.io/badge/-BaekNothing_Linkedin-LightGreen?&style=flat&logo=LinkedIn)](http://linkedin.com/in/baeknothing)
 [![Instagram Badge](https://img.shields.io/badge/-BaekNothing_Instagram-black?&style=flat&logo=Instagram)](https://www.instagram.com/baek.nothing/?hl=ko)
 
-###필요하면 찾는다. 없으면 만든다. 만들면 나눈다.
+### 필요하면 찾는다. 없으면 만든다. 만들면 나눈다.
 
 ## Career
 
