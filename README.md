@@ -14,7 +14,7 @@
 
 - Freelance Unity AR Developer (2019.10 ~ 2020.03)
 
-- KNUA - Interaction Design Bachelor of Arts (2013.02 ~ 2021.03)
+- K-Arts - Interaction Design Bachelor of Arts (2013.02 ~ 2021.03)
 
   
 
