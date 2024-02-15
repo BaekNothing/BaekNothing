@@ -16,8 +16,7 @@
 - K-Arts - Interaction Design Bachelor of Arts (2013.02 ~ 2021.03)
 
   
-
 ### Interest
 
-- 사용자의 예측과 UI의 구성이 게임 만족도에 미치는 영향에 대하여 개인 연구중. 
-- currently conducting an individual study on the impact of user expectations and UI configuration on game satisfaction
+- 사용자의 기대와 충족이 게임 만족도에 미치는 영향에 대하여 개인 연구중. 
+- A personal study is being conducted on the effect of user expectations and satisfaction on game satisfaction
