@@ -1,5 +1,5 @@
 [![Tistory's Badge](https://img.shields.io/badge/-BaekNothing_Tistory-gray?&style=flat&logo=Tistory)](https://baeknothing.tistory.com/)
-[![Instagram Badge](https://img.shields.io/badge/-BaekNothing_Instagram-black?&style=flat&logo=Instagram)](https://www.instagram.com/baek.nothing/?hl=ko)
+[![Instagram Badge](https://img.shields.io/badge/-BaekNothing_Instagram-black?&style=flat&logo=Instagram)](https://www.instagram.com/100hobbyhobby/?hl=ko)
 
 ### 필요하면 찾는다. 없으면 만든다. 만들면 나눈다.
 
